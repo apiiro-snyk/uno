@@ -3520,7 +3520,7 @@ namespace Uno.UI.RuntimeTests.Tests.Windows_UI_Xaml_Controls
 
 			var SUT = new TextBox
 			{
-				Width = 120,
+				Width = 100,
 				TextWrapping = TextWrapping.Wrap,
 				Text = "\t"
 			};
